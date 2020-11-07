@@ -14,6 +14,7 @@ Keystroke logging, also known as _keylogging_, is simply tracking the keys that 
 •	Parent monitoring child’s computer usage <br/>
 •	Boss monitoring employee’s computer usage <br/>
 •	Government retrieving information pertinent to a crime <br/>
+<br/>
 **Malicious uses:** <br/>
 •	Cracking passwords <br/>
 •	Gaining unauthorized information <br/>
@@ -44,14 +45,14 @@ pip install threading
 pip install os
 ```
 
-Once you are done with all these libraries, you can download the "Keylogger.py" script and open it in any of the Python IDE( PyCharm, Jupyter Notebook, Spyder, IDLE..)
+Once you are done with all these libraries, you can download the "Keylogger.py" script and open it in any of the Python IDE(` PyCharm, Jupyter Notebook, Spyder, IDLE..`)
 <br/>
 Now, when you Run the script it will ask for "A Time interval which you want to be there in between each interval" and once you give the input then the keyogger will start tracking.
 <br/>
 <br />
 This Keylogger will make a new Directory on the Desktop named "Keylogger" where all the Screenshots and log file will be stored.
 
-### How to Stop? :red_circle:
+### How to Stop? 
 In order to stop this Keylogger, you have to stop the python script. 
 
 
@@ -120,9 +121,9 @@ km.run(interval)
 
 ```
  
-Get the complete code [Here](https://https://github.com/Aryan529/Keylogger/) :100:
+Get the complete code [Here](https://github.com/Aryan529/Keylogger/) 
 
 
-### Disclaimer:warning:
+### Disclaimer
 This undertaking is just for _Educational Purposes_ and the abuse of the data in this venture can result in criminal allegations brought against the people being referred to.<br/> 
 I am in no way responsible for the misuse of the information.
